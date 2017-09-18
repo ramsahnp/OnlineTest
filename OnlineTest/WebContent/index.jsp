@@ -5,13 +5,14 @@
 <title>Welcome page</title>
 </head>
 <body>
+
 <h1>
 <div align="center">
 <table border="2">
 
 <tr><td>
-<a href="user.html">User</a><td></td><td>
-<a href="admin.html">Admin</a></td></tr>
+<a href="./userlogin.jsp">User</a><td></td><td>
+<a href="./adminlogin.jsp">Admin</a></td></tr>
 
 </div></table></h1>
 </body>
